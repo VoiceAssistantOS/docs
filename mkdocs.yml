@@ -1,0 +1,19 @@
+site_name: WordPressPCL
+site_url: https://voiceassistantos.github.io/docs
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - Quick Start:
+        - Raspberry Pi:
+            - RPi 0: start/rpi/0.md
+            - RPi 3: start/rpi/3.md
+            - RPi 4: start/rpi/4.md
+        - Generic: 
+            - x86_64: start/generic/x86_64.md
+    - Development Docs:
+        - dev/index.md
+        - Building: dev/building.md
+        - Contributing: dev/contributing.md
+
+
+theme: readthedocs
